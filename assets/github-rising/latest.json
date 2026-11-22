@@ -1,15 +1,23 @@
 {
   "version": 2,
-  "date": "2026-11-21",
-  "since": "2026-11-14",
-  "generated_at": "2026-11-21T17:46:16+08:00",
+  "date": "2026-11-22",
+  "since": "2026-11-15",
+  "generated_at": "2026-11-22T17:44:04+08:00",
   "sort": "total_stars_of_repositories_created_last_7_days",
   "items": [
+    {
+      "full_name": "ItsNotRexed/Leonida",
+      "name": "Leonida",
+      "language": "Python",
+      "stars": 8540,
+      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "html_url": "https://github.com/ItsNotRexed/Leonida"
+    },
     {
       "full_name": "erkamyaman/rust-anything",
       "name": "rust-anything",
       "language": "Rust",
-      "stars": 6939,
+      "stars": 7634,
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "html_url": "https://github.com/erkamyaman/rust-anything"
     },
@@ -17,15 +25,23 @@
       "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
       "name": "Wireless-Device-Battery-Monitor",
       "language": "C++",
-      "stars": 5515,
+      "stars": 5941,
       "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and ",
       "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "name": "blender-ai-mcp-addon",
+      "language": "其他",
+      "stars": 2708,
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
     },
     {
       "full_name": "gylive/google-ultra",
       "name": "google-ultra",
       "language": "Python",
-      "stars": 2557,
+      "stars": 2650,
       "description": "项目暂无简介",
       "html_url": "https://github.com/gylive/google-ultra"
     },
@@ -33,47 +49,15 @@
       "full_name": "Hut-hzf/ung220z-tool",
       "name": "ung220z-tool",
       "language": "Python",
-      "stars": 2124,
-      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查",
+      "stars": 2274,
+      "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查",
       "html_url": "https://github.com/Hut-hzf/ung220z-tool"
-    },
-    {
-      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "name": "blender-ai-mcp-addon",
-      "language": "其他",
-      "stars": 1898,
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
-    },
-    {
-      "full_name": "CzzzzzzJ/mdldm-maitian",
-      "name": "mdldm-maitian",
-      "language": "JavaScript",
-      "stars": 1758,
-      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-      "html_url": "https://github.com/CzzzzzzJ/mdldm-maitian"
-    },
-    {
-      "full_name": "duwqijlk/muse-protocol",
-      "name": "muse-protocol",
-      "language": "Python",
-      "stars": 1715,
-      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "html_url": "https://github.com/duwqijlk/muse-protocol"
-    },
-    {
-      "full_name": "haziqahmedqasmi/PeakCut",
-      "name": "PeakCut",
-      "language": "Python",
-      "stars": 1577,
-      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "html_url": "https://github.com/haziqahmedqasmi/PeakCut"
     },
     {
       "full_name": "iamajmeena/neonclipping",
       "name": "neonclipping",
       "language": "Python",
-      "stars": 1439,
+      "stars": 1885,
       "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "html_url": "https://github.com/iamajmeena/neonclipping"
     },
@@ -81,10 +65,26 @@
       "full_name": "sybil-solutions/inference-optimisation-skill",
       "name": "inference-optimisation-skill",
       "language": "Python",
-      "stars": 1397,
+      "stars": 1806,
       "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "full_name": "joshpuckett/allo",
+      "name": "allo",
+      "language": "Python",
+      "stars": 1398,
+      "description": "Allo is your friendly neighborhood typeface, free and open source",
+      "html_url": "https://github.com/joshpuckett/allo"
+    },
+    {
+      "full_name": "hatsunemiku-ai/google-one-tools",
+      "name": "google-one-tools",
+      "language": "Python",
+      "stars": 1181,
+      "description": "项目暂无简介",
+      "html_url": "https://github.com/hatsunemiku-ai/google-one-tools"
     }
   ],
-  "poster_url": "https://raw.githubusercontent.com/GavinDong3600/loonx/main/assets/github-rising/2026-11-21.png"
+  "poster_url": "https://raw.githubusercontent.com/GavinDong3600/loonx/main/assets/github-rising/2026-11-22.png"
 }
