@@ -1,90 +1,90 @@
 {
   "version": 2,
-  "date": "2026-11-23",
-  "since": "2026-11-16",
-  "generated_at": "2026-11-23T18:43:56+08:00",
+  "date": "2026-11-24",
+  "since": "2026-11-17",
+  "generated_at": "2026-11-24T20:27:26+08:00",
   "sort": "total_stars_of_repositories_created_last_7_days",
   "items": [
     {
-      "full_name": "ItsNotRexed/Leonida",
-      "name": "Leonida",
-      "language": "Python",
-      "stars": 18451,
-      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-      "html_url": "https://github.com/ItsNotRexed/Leonida"
-    },
-    {
-      "full_name": "erkamyaman/rust-anything",
-      "name": "rust-anything",
+      "full_name": "Marvisak/VIctory",
+      "name": "VIctory",
       "language": "Rust",
-      "stars": 8372,
-      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-      "html_url": "https://github.com/erkamyaman/rust-anything"
+      "stars": 8329,
+      "description": "An attempt at running GTA VI on PC",
+      "html_url": "https://github.com/Marvisak/VIctory"
     },
     {
-      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "name": "blender-ai-mcp-addon",
-      "language": "其他",
-      "stars": 2760,
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+      "full_name": "ivall/xcl",
+      "name": "xcl",
+      "language": "Rust",
+      "stars": 6437,
+      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "html_url": "https://github.com/ivall/xcl"
     },
     {
       "full_name": "EL4CTEO/fast-anything",
       "name": "fast-anything",
       "language": "Rust",
-      "stars": 2557,
+      "stars": 3428,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "html_url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "full_name": "AFK-surf/xnulinux",
+      "name": "xnulinux",
+      "language": "Objective-C++",
+      "stars": 2868,
+      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "html_url": "https://github.com/AFK-surf/xnulinux"
     },
     {
       "full_name": "iamajmeena/neonclipping",
       "name": "neonclipping",
       "language": "Python",
-      "stars": 2213,
+      "stars": 2388,
       "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "html_url": "https://github.com/iamajmeena/neonclipping"
-    },
-    {
-      "full_name": "sybil-solutions/inference-optimisation-skill",
-      "name": "inference-optimisation-skill",
-      "language": "Python",
-      "stars": 2022,
-      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill"
-    },
-    {
-      "full_name": "omonkeyz/xbox-emulator",
-      "name": "xbox-emulator",
-      "language": "Rust",
-      "stars": 1461,
-      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-      "html_url": "https://github.com/omonkeyz/xbox-emulator"
     },
     {
       "full_name": "R0Y00/Xbox2Windows",
       "name": "Xbox2Windows",
       "language": "Python",
-      "stars": 1384,
-      "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+      "stars": 1790,
+      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
       "html_url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "full_name": "omonkeyz/xbox-emulator",
+      "name": "xbox-emulator",
+      "language": "Rust",
+      "stars": 1745,
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "html_url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "full_name": "4lwayz/portwatch-vi",
+      "name": "portwatch-vi",
+      "language": "JavaScript",
+      "stars": 1687,
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "html_url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "full_name": "os6/nospeaker",
+      "name": "nospeaker",
+      "language": "Swift",
+      "stars": 1628,
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "html_url": "https://github.com/os6/nospeaker"
     },
     {
       "full_name": "Lemxy/WinRust",
       "name": "WinRust",
       "language": "Rust",
-      "stars": 1309,
+      "stars": 1440,
       "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
       "html_url": "https://github.com/Lemxy/WinRust"
-    },
-    {
-      "full_name": "pierridotite/mobile-agent-testers",
-      "name": "mobile-agent-testers",
-      "language": "Python",
-      "stars": 1061,
-      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-      "html_url": "https://github.com/pierridotite/mobile-agent-testers"
     }
   ],
-  "poster_url": "https://raw.githubusercontent.com/GavinDong3600/loonx/main/assets/github-rising/2026-11-23.png"
+  "poster_url": "https://raw.githubusercontent.com/GavinDong3600/loonx/main/assets/github-rising/2026-11-24.png"
 }
