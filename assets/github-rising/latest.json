@@ -1,55 +1,79 @@
 {
   "version": 2,
-  "date": "2026-11-24",
-  "since": "2026-11-17",
-  "generated_at": "2026-11-24T20:27:26+08:00",
+  "date": "2026-11-25",
+  "since": "2026-11-18",
+  "generated_at": "2026-11-25T19:15:34+08:00",
   "sort": "total_stars_of_repositories_created_last_7_days",
   "items": [
     {
       "full_name": "Marvisak/VIctory",
       "name": "VIctory",
       "language": "Rust",
-      "stars": 8329,
+      "stars": 11935,
       "description": "An attempt at running GTA VI on PC",
       "html_url": "https://github.com/Marvisak/VIctory"
     },
     {
-      "full_name": "ivall/xcl",
+      "full_name": "xcl-dev/xcl",
       "name": "xcl",
       "language": "Rust",
-      "stars": 6437,
+      "stars": 8090,
       "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-      "html_url": "https://github.com/ivall/xcl"
+      "html_url": "https://github.com/xcl-dev/xcl"
     },
     {
       "full_name": "EL4CTEO/fast-anything",
       "name": "fast-anything",
       "language": "Rust",
-      "stars": 3428,
+      "stars": 3779,
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "html_url": "https://github.com/EL4CTEO/fast-anything"
     },
     {
       "full_name": "AFK-surf/xnulinux",
       "name": "xnulinux",
-      "language": "Objective-C++",
-      "stars": 2868,
+      "language": "C",
+      "stars": 3704,
       "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
       "html_url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "full_name": "4lwayz/portwatch-vi",
+      "name": "portwatch-vi",
+      "language": "JavaScript",
+      "stars": 3259,
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "html_url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "full_name": "fxceless/victory-fork",
+      "name": "victory-fork",
+      "language": "Rust",
+      "stars": 2618,
+      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "html_url": "https://github.com/fxceless/victory-fork"
     },
     {
       "full_name": "iamajmeena/neonclipping",
       "name": "neonclipping",
       "language": "Python",
-      "stars": 2388,
+      "stars": 2559,
       "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "html_url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "full_name": "ubiquitarianism/leonida",
+      "name": "leonida",
+      "language": "Python",
+      "stars": 2105,
+      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "html_url": "https://github.com/ubiquitarianism/leonida"
     },
     {
       "full_name": "R0Y00/Xbox2Windows",
       "name": "Xbox2Windows",
       "language": "Python",
-      "stars": 1790,
+      "stars": 1937,
       "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
       "html_url": "https://github.com/R0Y00/Xbox2Windows"
     },
@@ -57,34 +81,10 @@
       "full_name": "omonkeyz/xbox-emulator",
       "name": "xbox-emulator",
       "language": "Rust",
-      "stars": 1745,
+      "stars": 1837,
       "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
       "html_url": "https://github.com/omonkeyz/xbox-emulator"
-    },
-    {
-      "full_name": "4lwayz/portwatch-vi",
-      "name": "portwatch-vi",
-      "language": "JavaScript",
-      "stars": 1687,
-      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "html_url": "https://github.com/4lwayz/portwatch-vi"
-    },
-    {
-      "full_name": "os6/nospeaker",
-      "name": "nospeaker",
-      "language": "Swift",
-      "stars": 1628,
-      "description": "make your macbook's trackpad talk using its haptic motor",
-      "html_url": "https://github.com/os6/nospeaker"
-    },
-    {
-      "full_name": "Lemxy/WinRust",
-      "name": "WinRust",
-      "language": "Rust",
-      "stars": 1440,
-      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
-      "html_url": "https://github.com/Lemxy/WinRust"
     }
   ],
-  "poster_url": "https://raw.githubusercontent.com/GavinDong3600/loonx/main/assets/github-rising/2026-11-24.png"
+  "poster_url": "https://raw.githubusercontent.com/GavinDong3600/loonx/main/assets/github-rising/2026-11-25.png"
 }
